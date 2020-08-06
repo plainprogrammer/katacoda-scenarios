@@ -1,0 +1,11 @@
+{
+  "title": "Refactoring Fundamentals in Ruby",
+  "description": "Learn fundamental refactoring techniques in Ruby.",
+  "courses": [
+    {
+      "course_id": "intro",
+      "title": "Introduction",
+      "description": "What is refactoring and how do we do it?"
+    }
+  ]
+}
