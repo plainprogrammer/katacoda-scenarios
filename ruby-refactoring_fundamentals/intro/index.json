@@ -4,15 +4,15 @@
   "difficulty": "Beginner",
   "time": "15 minutes",
   "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      }
-    ],
     "intro": {
       "text": "intro.md"
     },
+    "steps": [
+      {
+        "title": "Form & Function",
+        "text": "01_form_and_function.md"
+      }
+    ],
     "finish": {
       "text": "finish.md"
     },
