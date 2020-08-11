@@ -11,6 +11,10 @@
       {
         "title": "Form & Function",
         "text": "01_form_and_function.md"
+      },
+      {
+        "title": "Code Smells",
+        "text": "02_code_smells.md"
       }
     ],
     "finish": {

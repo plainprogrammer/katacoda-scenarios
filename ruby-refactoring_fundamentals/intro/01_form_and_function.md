@@ -88,3 +88,9 @@ end
 And, let's run our test to make sure we are starting from a working state.
 
 `ruby example_test.rb`{{execute}}
+
+Our test should pass and let us know that we are in a good place to change this
+code.
+
+In our next section we will explore the kinds of things we can observe in our
+code that let us know where _refactoring_ may be helpful.
