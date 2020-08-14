@@ -1,6 +1,6 @@
 require "minitest/autorun"
 require "date"
-require_relative "./example"
+require_relative "./by_due"
 
 class TestExample < MiniTest::Unit::TestCase
   Task = Struct.new(:name, :due)
